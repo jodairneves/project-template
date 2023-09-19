@@ -1,0 +1,22 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Jodair Neves",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jodairneves/project-template/issues"
+  },
+  "homepage": "https://github.com/jodairneves/project-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jodairneves/project-template.git"
+  }
+}
